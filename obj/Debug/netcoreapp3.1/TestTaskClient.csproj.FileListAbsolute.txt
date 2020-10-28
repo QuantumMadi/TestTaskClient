@@ -1,0 +1,13 @@
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.csprojAssemblyReference.cache
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.AssemblyInfoInputs.cache
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.AssemblyInfo.cs
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.csproj.CoreCompileInputs.cache
+/home/madi/DotnetProjects/TestTaskClient/bin/Debug/netcoreapp3.1/TestTaskClient
+/home/madi/DotnetProjects/TestTaskClient/bin/Debug/netcoreapp3.1/TestTaskClient.deps.json
+/home/madi/DotnetProjects/TestTaskClient/bin/Debug/netcoreapp3.1/TestTaskClient.runtimeconfig.json
+/home/madi/DotnetProjects/TestTaskClient/bin/Debug/netcoreapp3.1/TestTaskClient.runtimeconfig.dev.json
+/home/madi/DotnetProjects/TestTaskClient/bin/Debug/netcoreapp3.1/TestTaskClient.dll
+/home/madi/DotnetProjects/TestTaskClient/bin/Debug/netcoreapp3.1/TestTaskClient.pdb
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.dll
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.pdb
+/home/madi/DotnetProjects/TestTaskClient/obj/Debug/netcoreapp3.1/TestTaskClient.genruntimeconfig.cache
